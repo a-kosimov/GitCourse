@@ -9,6 +9,6 @@
 </head>
 <body>
  Hello GIT
-
+<script src="app.js"></script>
 </body>
 </html>
